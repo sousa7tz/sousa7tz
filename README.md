@@ -21,7 +21,7 @@ Currently evolving beyond the basics — aiming to design solid, scalable and pr
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Java, Python, PHP, Go 
+**Languages:** Java, Python, PHP, Go  
 **Database:** SQL (MySQL for now)  
 **Tools:** 
 - Git & GitHub  
