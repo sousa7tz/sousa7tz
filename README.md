@@ -8,7 +8,7 @@ Opa! Sou o Emanuel, 16 anos. Atualmente cursando o M-TEC em **Desenvolvimento de
 
 ---
 
-## 🛠️ techStack() {
+## techStack() {
   - **languages:** ['PHP', 'Java', 'Python', 'JavaScript'];
   - **database:** 'MySQL';
   - **tools:** ['VS Code', 'Cursor', 'IntelliJ', 'Git'];
