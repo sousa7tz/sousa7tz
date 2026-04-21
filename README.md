@@ -2,7 +2,7 @@
 
 Opa! Sou o Emanuel, 16 anos. Atualmente cursando o M-TEC em **Desenvolvimento de Sistemas** na ETEC Uirapuru.
 
-- **Full-Stack** com foco em arquitetura.
+- **Full-Stack** com foco em arquitetura de sistemas.
 - Entusiasta de UI/UX.
 - Construindo projetos funcionais e soluções para o mundo real.
 
