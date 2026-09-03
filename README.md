@@ -18,7 +18,7 @@
 
 ---
 
-### ⚡ TL;DR
+### ⚡ too long; didn't read
 
 - 🎓 **Current Track:** 17-year-old student in the 2nd year (2/3) of Systems Development (M-TEC) at ETEC Uirapuru. Solidifying software architecture while aiming directly at Mechatronics.
 - ⚙️ **Physical World & Hardware:** Driven by circuits, microcontrollers, and physical machines over purely virtual interfaces. Code is a tool to control reality.
